@@ -123,7 +123,7 @@ section img {
 
 .card-item {
   animation-timeline: view();
-  animation-range-end: 50%;
+  animation-range-end: 30%;
   display: flex;
   text-align: center;
   flex-direction: column;
