@@ -122,6 +122,7 @@ section img {
 }
 
 .card-item {
+  
   display: flex;
   text-align: center;
   flex-direction: column;
