@@ -93,7 +93,7 @@ section img {
 
 .top-bar {
   animation-timeline: view();
-  width: 100%;
+  width: auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
