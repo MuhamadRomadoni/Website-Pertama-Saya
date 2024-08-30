@@ -176,5 +176,6 @@ footer {
   
   .card-item {
     animation-range-end: 45%;;
+    border-radius: 10px;
   }
 };
