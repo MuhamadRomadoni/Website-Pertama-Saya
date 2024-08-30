@@ -92,6 +92,7 @@ section img {
 }
 
 .top-bar {
+  anim
   width: 100%;
   display: flex;
   flex-direction: column;
