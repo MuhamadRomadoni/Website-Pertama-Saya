@@ -122,7 +122,8 @@ section img {
 }
 
 .card-item {
-  
+  animation-timeline: view();
+  animation-range-end: 80%;
   display: flex;
   text-align: center;
   flex-direction: column;
