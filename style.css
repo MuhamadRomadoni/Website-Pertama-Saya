@@ -94,6 +94,7 @@ section img {
 
 .top-bar {
   animation-timeline: view();
+  anima
   width: 100%;
   display: flex;
   flex-direction: column;
